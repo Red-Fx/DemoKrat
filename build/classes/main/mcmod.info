@@ -1,0 +1,10 @@
+[
+    {
+        "modid": "demokrat",
+        "name": "DemoKrat",
+        "version": "1.0",
+        "requiredMods": [
+            "spongeapi@5.0.0"
+        ]
+    }
+]
