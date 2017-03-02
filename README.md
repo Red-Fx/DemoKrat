@@ -1,2 +1,2 @@
 # DemoKrat
-A Minecraft Votingbox plugin for Sponge.
+A Minecraft plugin for Sponge.
